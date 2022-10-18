@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjyanxin
+- 👋 Hi, I’m @jackyair
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on ...
